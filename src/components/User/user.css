@@ -1,0 +1,14 @@
+.userLoad{
+    background-color: #cdcdcd;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.01), 0 5px 5px 0 rgba(0, 0, 0, 0.11);
+    margin-top: 1rem;
+    cursor: pointer;
+    flex-flow: row;
+    display: flex;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.active{
+    background-color: #9c9b9b;
+}

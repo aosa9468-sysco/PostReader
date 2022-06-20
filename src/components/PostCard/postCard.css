@@ -1,0 +1,9 @@
+.postDetails{
+        flex-flow: column;
+        margin-top: 1rem;
+        padding: 8px;
+        background-color: #ece9e9;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.01), 0 5px 5px 0 rgba(0, 0, 0, 0.11);
+        margin-left: 1rem;
+        border-radius: 8px;
+}
